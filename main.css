@@ -1,0 +1,25 @@
+body {
+    margin: auto;
+    width: auto;
+}
+
+.skill-container {
+    align-self: auto;
+    max-height: 200px;
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 50px;
+    margin: auto;
+}
+
+.project-image {
+    display: block;
+    margin: auto;
+    padding: 30px;
+    max-width: 80%;
+    max-height: 80%;
+}
